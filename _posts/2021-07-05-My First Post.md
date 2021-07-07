@@ -1,7 +1,7 @@
 ---
 layout:     post                   
 title:      My First Post 
-subtitle:   Hello World, Hello Blog 
+subtitle:   Hello World, hello Blog 
 date:       2021-07-05              
 author:     cattouch                    
 header-img: img/post-bg-2015.jpg    
