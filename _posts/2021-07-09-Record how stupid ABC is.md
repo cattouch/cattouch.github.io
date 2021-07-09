@@ -4,7 +4,8 @@ title:      Record how stupid ABC(Australian Broadcasting Corporation) is
 subtitle:   👋 Welcome to my blog
 date:       2021-07-09              
 author:     cattouch                    
-header-img: img/post-bg-2015.jpg    
+header-img: img/post-bg-2015.jpg   
+stickie: true
 catalog: true                      
 tags:                            
     - ABC
