@@ -14,6 +14,6 @@ tags:
 # Hello World
 
 
-This is my first log.
+This is my first blog.
 
 Welcome everyone, hope you have a good mood.
