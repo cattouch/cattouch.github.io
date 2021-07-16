@@ -32,7 +32,7 @@ and [@Jack53596930](https://twitter.com/Jack53596930/status/1337682526660304896)
 
 
 <!--GitHub Markdown doesn't support footnotes-->
-[^1]:The Twitter link:
-https://twitter.com/marlow_watching/status/1401029096394555393</br>
-[^2]:The Twitter link:
+[^1]: The Twitter link:
+https://twitter.com/marlow_watching/status/1401029096394555393 </br>
+[^2]: The Twitter link:
 https://twitter.com/Jack53596930/status/1337682526660304896
