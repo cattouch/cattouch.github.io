@@ -1,6 +1,6 @@
 ---
 layout:     post                   
-title:      ABC apologizes for publishing fake news
+title:      ABC is good at making up news
 subtitle:   ABC broadcast fake news
 date:       2021-08-09              
 author:     cattouch                    
@@ -10,10 +10,10 @@ tags:
     - ABC
     - Shattered Thoughtsbrain
 ---
-# ABC apologizes for publishing fake news
+# ABC is good at making up news
 ABC often broadcasts unverified news, or even makes up news to broadcast
 
-## 
+## ABC apologizes for publishing fake news
 In April,the ABC has issued an apology to Governor-General David Hurley and Chief of Navy Michael Noonan after being accused of “dishonest” reporting by 
 implying they were in attendance for an exuberant dance performance to mark the commissioning of a naval warship.
 > Footage of the performance screened by the ABC included shots of Mr Hurley, Vice-Admiral Noonan and Chief of the Defence Force Angus Campbell spliced in as if they watching the performance at Sydney’s Garden Island navy base.
