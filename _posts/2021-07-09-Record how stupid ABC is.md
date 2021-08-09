@@ -46,3 +46,4 @@ This post will continue to be updated, but also welcome submissions.
 
 + [The dishonest ABC](https://cattouch.github.io/2021/07/09/The-dishonest-ABC/)
 + [Tainted employees](https://cattouch.github.io/2021/07/16/Tainted-employees/)
++ [Racial Discrimination](https://cattouch.github.io/2021/07/25/Racial-Discrimination/)
