@@ -50,3 +50,4 @@ This post will continue to be updated, but also welcome submissions.
 + [ABC is good at making up news](https://cattouch.github.io/2021/08/09/ABC-apologizes-for-publishing-fake-news/)
 + [ABC TV Aired a Satanic Ritual](https://cattouch.github.io/2021/08/23/ABC-TV-Aired-a-Satanic-Ritual/)
 + [ABC delays newscast due to politics](https://cattouch.github.io/2021/08/30/ABC-delays-newscast-due-to-politics/)
++ [ABC headquarters had been raided by AFP](https://cattouch.github.io/2021/09/06/ABC-headquarters-had-been-raided-by-AFP/)
