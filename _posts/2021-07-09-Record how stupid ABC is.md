@@ -51,3 +51,4 @@ This post will continue to be updated, but also welcome submissions.
 + [ABC TV Aired a Satanic Ritual](https://cattouch.github.io/2021/08/23/ABC-TV-Aired-a-Satanic-Ritual/)
 + [ABC delays newscast due to politics](https://cattouch.github.io/2021/08/30/ABC-delays-newscast-due-to-politics/)
 + [ABC headquarters had been raided by AFP](https://cattouch.github.io/2021/09/06/ABC-headquarters-had-been-raided-by-AFP/)
++ [Murdoch’s Fox News demands external inquiry into ABC program](https://cattouch.github.io/2021/09/13/Murdoch-s-Fox-News-demands-external-inquiry-into-ABC-program/)
