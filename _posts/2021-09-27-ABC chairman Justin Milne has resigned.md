@@ -49,5 +49,5 @@ He described what was reported as "a piece of an email" but later also said: "Yo
 The only thing that such a huge scandal proves is that the ABC's impartiality, its independence, is indeed a big problem.
 
 ## News Link
-[link1](https://www.abc.net.au/news/2018-09-27/abc-chairman-justin-milne-resigns/10311472)
+[link1](https://www.abc.net.au/news/2018-09-27/abc-chairman-justin-milne-resigns/10311472)</br>
 [link2](https://www.farahnewsonline.com/?mod=news&id=66241)
